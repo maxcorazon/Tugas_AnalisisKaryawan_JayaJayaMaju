@@ -49,6 +49,7 @@ Analisis Pengaruh Saham (Stock Option): Grafik stacked bar yang menunjukkan kore
 
 Analisis Pengaruh Kepuasan Kerja: Grafik stacked bar ini menunjukkan distribusi karyawan berdasarkan tingkat kepuasan kerja (skala 1-4). Terlihat adanya korelasi negatif yang kuat, di mana karyawan pada tingkat kepuasan terendah (Level 1) memiliki proporsi resign yang paling tinggi.
 
+https://public.tableau.com/views/M891D5Y1083-Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Conclusion
 
 - Performa Model: Model mencapai akurasi sebesar 83.49%. Artinya, secara umum model sudah cukup baik membedakan antara karyawan yang bertahan dan yang akan keluar. Namun kemampuan mendeteksi yang resign masih terbatas karena hanya mendapatkan Recall 33%.
